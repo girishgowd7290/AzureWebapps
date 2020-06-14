@@ -78,3 +78,5 @@ Hello World
 ```
 -Dlogging.level.org.springframework=DEBUG
 ```
+
+### Add webhooks as well so that jenkins can trigger immediately
